@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 1a04e76d7043c5a4f943a22d9c04a663
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles:
+  - Assets/SuperTiled2Unity/Imports/Game Dev Stuff/Pixel Art/test map.png
+  errors:
+  - 'Missing texture asset: Game Dev Stuff/Pixel Art/test map.png'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 11
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

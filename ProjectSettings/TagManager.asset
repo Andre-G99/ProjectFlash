@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Pause Menu
+  - Manager
+  - Settings Menu
+  - Heart
+  - Heart 2
+  - Heart 3
+  - SceneManager
+  - AudioManager
+  - Lose Screen
+  - Knife
+  - test tag
+  - chkpt
+  - spawner
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1152248621
+    locked: 0
+  - name: Player
+    uniqueID: 2116902463
+    locked: 0
+  - name: Weapon
+    uniqueID: 3098699125
+    locked: 0

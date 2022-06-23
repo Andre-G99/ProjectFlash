@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 834d42a057c66bd4597c6ec888c33af1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - knifeAsProjectile: {fileID: 1661935316628221297, guid: d401c47a743455c4aa90a6006ad8a175, type: 3}
+  - point: {instanceID: 0}
+  - shotPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
